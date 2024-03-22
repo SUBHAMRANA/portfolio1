@@ -22,7 +22,7 @@ export const projects = [
   {
     title: " Snake Game",
     description:
-      "JavaScript Advance Project. Made a snake game using pure JavaScript for the logic and CSS for the animations",
+      "JavaScript Advance Project. Made a snake game using pure JavaScript for the logic and CSS for the animations. Features-Customizable Speed, Highscore Tracking",
     image: "/images/6.png",
     tags: ["Html", "css", "Vanilla JS"],
     source: "https://github.com/bhattritik21/snake-game",
@@ -30,13 +30,13 @@ export const projects = [
     id: 2,
   },
   {
-    title: "CocktailDb",
+    title: "Kr1da",
     description:
-      "Designed an eye-catching UI, prioritizing to engage user experience. Utilized React to fetch and dynamically display cocktail data from an external API, ensuring comprehensive information for users.",
+      "It is strictly be focused on engaging the users with a sports-oriented marketplace and franchise.Integrated Realtime APIs to showcase Live match Scores and Latest Sports news, ensuring secure user authentication and MongoDB database management.",
     image: "/images/1.png",
-    tags: ["ReactJS"],
-    source: "https://github.com/bhattritik21/cocktails",
-    visit: "https://cocktail-details.netlify.app/",
+    tags: ["MERN STACK"],
+    source: "https://github.com/bhattritik21/Kr1da-Final",
+    visit: "https://kr1da.netlify.app/",
     id: 3,
   },
   {
