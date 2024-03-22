@@ -15,8 +15,8 @@ export const projects = [
       "Led the development of a cutting-edge MERN project with Open-AI Integration, focused on revolutionizing the resume modification and enhancement suggestions, thereby optimizing candidates chances of securing their desired positions.",
     image: "/images/2.png",
     tags: ["Open AI","ReactJS","NodeJS"],
-    source: "https://github.com/bhattritik21/shopping-cart",
-    visit: "https://iphoneshopping-cart.netlify.app/",
+    source: "https://github.com/bhattritik21/Rscanner",
+    visit: "https://rscanner.onrender.com/",
     id: 1,
   },
   {
