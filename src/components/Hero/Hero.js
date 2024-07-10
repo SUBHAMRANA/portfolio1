@@ -6,7 +6,7 @@ import {
 } from "../../styles/GlobalComponents";
 import { LeftSection } from "./HeroStyles";
 import Button from "react-bootstrap/Button";
-import Resume from "../../files/resume.pdf";
+import Resume from "../../resume.pdf";
 
 const Hero = (props) => (
   <>
