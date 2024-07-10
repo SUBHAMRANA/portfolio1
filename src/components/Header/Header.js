@@ -14,10 +14,12 @@ const Header = () => (
       </a>
     </Div1>
     <Div3>
-      <SocialIcons href="https://github.com/bhattritik21">
+    <SocialIcons href="https://github.com/SUBHAMRANA" target="_blank"
+          rel="noopener noreferrer">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/ritik-bhatt-681266194/">
+      <SocialIcons href="https://www.linkedin.com/in/subham-rana-44545818b/" target="_blank"
+          rel="noopener noreferrer">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
     </Div3>
