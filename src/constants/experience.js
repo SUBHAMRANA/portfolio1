@@ -4,7 +4,7 @@ export const experience = [
     description:
       "At Turtlemint, I excel as a Software Engineer, specializing in designing responsive landing pages using React and TypeScript. I conduct effective A/B testing to optimize user engagement and develop robust APIs with Reactive Java and Spring Boot for seamless backend integration.",
     image: "/images/7.png",
-    tags: ["React", "typescript", "SpringBoot", "Reactive Java", "Mongo"],
+    tags: ["React", "SpringBoot", "Reactive Java", "Mongo"],
     role: "Software Engineer",
     time: "Jul 2023 - Present",
     id: 0,
