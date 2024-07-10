@@ -49,10 +49,12 @@ const Projects = () => (
                 </TagList>
               </div>
               <UtilityList>
-                <Button href={p.source} variant="outline-info">
+                <Button href={p.source} target="_blank"
+          rel="noopener noreferrer" variant="outline-info">
                   Source Code
                 </Button>
-                <Button href={p.visit} variant="outline-warning">
+                <Button href={p.visit} target="_blank"
+          rel="noopener noreferrer" variant="outline-warning">
                   Visit Site
                 </Button>
               </UtilityList>
